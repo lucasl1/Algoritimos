@@ -33,7 +33,7 @@ Inicio
    fimif
 fimif
 escreval("Resultado do calculo é: ", resultado)
-
+lala
 Fimalgoritmo*/
 
 

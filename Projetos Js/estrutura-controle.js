@@ -18,7 +18,8 @@ senao
 
    media = (nota01 + nota02) / 2
 
-    if (media >= 5)
+    if (media >= 5){
         alert("Aprovado!" + nome)
+    }
     else
         alert("Reprovado!" + nome)

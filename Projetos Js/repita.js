@@ -19,8 +19,7 @@ Inicio
          escreval("Deseja sair? S/N")
          leia(sairLoop)
    ate sairLoop <> "N"
-
-Fimalgoritmo*/
+*/
 
 function acaoBotao() {
     var sairLoop, valor01, valor02
